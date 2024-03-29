@@ -6,3 +6,17 @@ The model used in this example is gpt-3.5-turbo-instruct through OpenAI API usin
 To replicate this code, you'll need to use a valid OpenAI key.
 The purpose of this project is to show users how to programatically interacting with OpenAI’s models for text generation, summarization, and more.
 
+Instructions:
+
+1.- Run the following commands in your terminal to install openai and dotenv packages:
+    !pip install openai
+    !pip install python-dotenv
+
+2.- Make sure you have a valid OpenAI key with available tokens.
+
+3.- Replace the string "Insert you key here" with your actual key.
+
+3.- Adjust parameters as you wish.
+
+4.- Enjoy!
+
